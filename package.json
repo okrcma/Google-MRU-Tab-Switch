@@ -1,0 +1,18 @@
+{
+  "scripts": {
+    "format": "npx prettier --write .",
+    "install": "npm install",
+    "build": "bash ./build.sh"
+  },
+  "devDependencies": {
+    "@types/chrome": "^0.0.263",
+    "prettier": "^3.2.5",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.4.2",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "registry.npmjs.org": "^1.0.1"
+  }
+}

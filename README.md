@@ -1,1 +1,1 @@
-# Google-MRU-Tab-Switch
+# Chrome-MRU-Tab-Switch
